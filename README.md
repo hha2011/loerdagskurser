@@ -105,9 +105,9 @@ Vecka| Dag      |Vad
 .    |2024-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2024-03-16| 8.
 12   |2024-03-23| 9.
-13   |2024-03-30|Ej kurs, Paskafton
-14   |2024-04-06|Ej kurs, Pasklov
-15   |2024-04-13| 10. Början jobba åt slutpresentation
+13   |2024-03-30|Ej kurs, Påskafton
+14   |2024-04-06|Ej kurs, Påsklov
+15   |2024-04-13| 10. Börja jobba på slutpresentation
 16   |2024-04-20| 11. 
 17   |2024-04-27|Ej kurs, Valborg
 18   |2024-05-04| 12. 
@@ -159,10 +159,10 @@ Detta är det övergripande schemat. Ser veckoschema för detaljerna.
 
 När      |Vad
 ---------|----------------------------
-Januari  |Kursen 1:e termin
+Januari  |Kursen 1:a termin
 Juli     |Presentation och utvärdering 
 Augusti  |Sommarlov
-September|Kursen 2:e termin
+September|Kursen 2:a termin
 December |Presentation och utvärdering
 
 ## Betalning
